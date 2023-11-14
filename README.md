@@ -1,2 +1,19 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ronan-cn&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronan-cn)](https://github.com/anuraghazra/github-readme-stats)
+## Bem-vindo(a) ao perfil do Ronan 😁
+
+ <div>
+   <a href="https://github.com/Ronan-cn">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ronan-cn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronan-cn&layout=compact&langs_count=6&theme=tokyonight"/>
+
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+
+
+  ![Snake animation](https://github.com/Ronan-cn/Ronan-cn/blob/output/github-contribution-grid-snake.svg)
+
+</div>
